@@ -1,0 +1,183 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.parent{
+    height: 50%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    gap: 5px;
+}
+
+.child1{
+    height: 100%;
+    width: 50%;
+    background-color: blue;
+}
+
+.child2{
+    height: 100%;
+    width: 50%;
+    background-color: black;
+}
+
+.section1{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.parent1{
+    height: 50%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    gap: 5px;
+}
+
+.box1{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    align-items: flex-end;
+    background-color: red;
+}
+.boxx1{
+    height: 50%;
+    width: 50%;
+     background-color: blue;
+    
+    
+}
+
+.box2{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: end;
+    background-color: red;
+}
+
+.boxx2{
+    height: 50%;
+    width: 50%;
+    background-color: blue;
+}
+
+.section1{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.parent2{
+    height: 50%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    gap: 5px;
+}
+
+.bex1{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    background-color: red;
+}
+.bex2{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+}
+.bex3{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    background-color: red;
+}
+
+.bexx2{
+    height: 50%;
+    width: 20%;
+    background-color: blue;
+    
+}
+
+.section3{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.parent3{
+    height: 50%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    gap: 5px;
+}
+
+.bix1{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    background-color: blue;
+}
+.bix2{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    background-color: blue;
+}
+
+.bix3{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    background-color: blue;
+}
+.parent4{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    
+    
+
+}
+
+.bix4{
+    height: 100%;
+    width: 100%;   
+    background-color: red;
+    
+}
+
+.bix5{
+    height: 100%;
+    width: 100%;
+    
+    background-color: red;
+}
+
+
